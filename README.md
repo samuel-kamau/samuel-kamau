@@ -2,7 +2,7 @@
 
 ## I'm a Entrepreneur, Coach, Developer, and Teacher!!
 
-- 🌱 I’m currently learning network progrsmming 🤣
+- 🌱 I’m currently learning network programming 🤣
 - 👯 I’m looking to collaborate with other network programmers
 - 🥅 2021 Goals: Contribute and learn more about Open Source projects
 - ⚡ Fun fact: I love to draw and skateboarding
